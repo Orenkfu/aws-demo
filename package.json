@@ -1,0 +1,33 @@
+{
+  "name": "amazon_test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "bcrypt": "latest",
+    "config": "1.30.0",
+    "ejs": "latest",
+    "aws-sdk": "latest",
+    "express": "latest",
+    "body-parser": "latest",
+    "mongoose": "5.1.4",
+    "winston": "2.4.0",
+    "winston-mongodb": "3.0.0",
+    "request": "2.87.0",
+    "compression": "1.7.2",
+    "express-async-errors": "3.0.0",
+    "helmet": "3.12.1",
+    "joi": "13.3.0",
+    "joi-objectid": "2.0.0",
+    "jsonwebtoken": "8.2.2",
+    "lodash": "4.17.10",
+    "underscore": "1.9.1"
+  },
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
